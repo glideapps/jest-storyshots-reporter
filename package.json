@@ -26,7 +26,7 @@
     "author": "typeguard, Inc.",
     "license": "MIT",
     "dependencies": {
-        "@actions/core": "^1.2.0",
+        "@actions/core": "^1.9.1",
         "@actions/github": "^2.2.0",
         "@types/xml2js": "^0.4.5",
         "eslint-plugin-import": "^2.20.2",
